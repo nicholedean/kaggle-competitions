@@ -1,3 +1,4 @@
 ipykernel
+keras
 keras-pandas
 seaborn
