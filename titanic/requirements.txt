@@ -2,3 +2,4 @@ ipykernel
 keras
 keras-pandas
 seaborn
+statsmodels
